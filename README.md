@@ -1,1 +1,1 @@
-# ArduinoEEPROM
+A software tool enabling arduino microcontrollers to function as low cost, easily reprogrammable transparent EEPROM memory. Includes a parser to write microcode instruction sets from CSV files.
